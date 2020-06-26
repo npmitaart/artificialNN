@@ -1,0 +1,2 @@
+# artificialNN
+Pengen belajar aja
