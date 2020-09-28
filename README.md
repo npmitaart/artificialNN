@@ -1,2 +1,3 @@
 # artificialNN
-Pengen belajar aja
+
+Ini repository mengenai percobaan penggunaan Artficial Neural Network.
